@@ -1,11 +1,5 @@
 # CRUD Inventaris - Tugas Rutin 8
 
-Aplikasi CRUD inventaris sederhana menggunakan **PHP Native + PDO + MySQL**.
-
-**Nama:** (isi nama lengkap)
-**NIM:**  (isi NIM)
-**Kelas:** (isi kelas)
-
 ## Fitur
 - Database `inventaris_db` dengan 3 tabel (kategori, supplier, produk) + Foreign Key
 - Koneksi PDO dengan Singleton pattern
@@ -31,3 +25,8 @@ delete.php              -> hapus (transaction + log)
 log.php / export.php    -> log aktivitas & export CSV
 database.sql            -> struktur tabel + seed data
 ```
+
+## ScreenShoot 
+
+![Gambar](gambar/Screenshot_(46).png)
+![Gambar](gambar/Screenshot_(47).png)
